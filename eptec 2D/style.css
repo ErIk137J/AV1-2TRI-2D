@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .cabecalho {
+    background-color: rgb(22, 35, 65);
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20 px 0;
+    }
+    .cabecalho-imagem{
+    width: 20%;
+    }
+    .colegio{
+    background-image: linear-gradient(rgb(236, 229, 229),white);
+    color:white;
+    padding: 24px 0;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    }
+    .colegio-titulo{
+    padding: 30px;
+    font-size: 36px;
+    color: rgb(190, 14, 14);
+    }
+    .colegio-div-conteudo{
+    width: 40%;
+    font-size: 22px;
+    margin: 0 50px;
+    color:rgb(12, 11, 11);
+    }
+    .colegio-imagem{
+    margin: 0 20px;
+    width: 35%;
+    }
+    body {font-family: 'Poppins', sans-serif;}
+    
+    *{
+    margin: 0;
+    padding: 0;
+    }
+    .cabecalho {
+    background-color: rgb(22, 35, 65);
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20 px 0;
+    }
+    .cabecalho-imagem{
+    width: 20%;
+    }
+    .colegio{
+    background-image: linear-gradient(rgb(236, 229, 229),white);
+    color:white;
+    padding: 24px 0;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    }
+    .colegio-titulo{
+    padding: 30px;
+    font-size: 36px;
+    color: rgb(190, 14, 14);
+    }
+    .colegio-div-conteudo{
+    width: 40%;
+    font-size: 22px;
+    margin: 0 50px;
+    color:rgb(12, 11, 11);
+    }
+    .colegio-imagem{
+    margin: 0 20px;
+    width: 35%;
+    }
+    
+    #estudante{
+    background:hwb(41 80% 73%) ;
+    }
+    .estudante-titulo{
+    text-align: center;
+    padding: 50px;
+    color: rgb(223, 49, 49);
+    font-size: 30px;
+    }
+    
+    .estudante-imagem{
+    height: 185px;
+    }
+    
+    .estudante-icone{
+    width: 45px;
+    }
+    .estudante-div{
+    text-align: center;
+    }
+    .cabecalho {
+    background-color: rgb(22, 35, 65);
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20 px 0;
+    }
+    .cabecalho-imagem{
+    width: 20%;
+    }
+    .cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 24px;
+    font-size: 24px;
+    color: none;
+    }
+    .cabecalho-lista-item:hover{
+    color: white;
+    text-decoration: underline;
+    }
+    .colegio{
+    background-image: linear-gradient(rgb(236, 229, 229),white);
+    color:white;
+    padding: 24px 0;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    }
+    .colegio-titulo{
+    padding: 30px;
+    font-size: 36px;
+    color: rgb(190, 14, 14);
+    }
+    .colegio-div-conteudo{
+    width: 40%;
+    font-size: 22px;
+    margin: 0 50px;
+    color:rgb(12, 11, 11);
+    }
+    .colegio-imagem{
+    margin: 0 20px;
+    width: 35%;
+    }
+    .estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% ;
+    padding: 50px;
+    margin-left: 15%;
+    }
+    .rodape{
+    background:rgb(67, 67, 67);
+    color:white;
+    text-align: center;
+    }
+    
+
+    
+
+    .escola-div-conteudo{
+
+    font-size: 25px;
+    margin: 0 100px;
+    color: rgb(12, 11, 11);
+    background-color: rgb(236, 229, 229);
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 30px;
+    }
+
+    .escola-texto{
+    padding-bottom: 8px;
+    }
+
+    .plano-de-fundo2{
+     background-color: rgb(8, 31, 66);
+     }
+       
+     #fotos{
+        background:rgb(41, 80, 73);
+        padding:20px 0;
+        justify-content:center;
+        align-items:center;
+        margin-right:100px;
+        margin-left:100px;
+        }
+        
+        .fotos-título{
+        font-size: 50px;
+        text-align:center;
+        padding: 10px 0;
+        color: rgb(255, 255, 255);
+        }
+        
+        .fotos-todos{
+        display: grid;
+        grid-template-columns: 30% 30% 30% ;
+        margin-left: 10%;
+        align-items: center;
+        }
+        
+        .fotos-div{
+        text-align: center;
+        padding-top: 40px;
+        
+        }
+        
+        .fotos-imagem{
+        height: 250px;
+        
+        }
+        
+        .plano-de-fundo4{
+        background-color: rgb(8, 31, 66);
+        }
+
+        #estrutura{
+
+        text-align: center;
+        padding: 30px;
+        color: rgb(172, 4, 4);
+        font-size: 50px;
+        padding-bottom: 3.5%;
+
+    }
+        
+      #historia{
+        text-align: center;
+        padding: 30px;
+        font-size: 50px;
+        color:rgb(172, 4, 4);
+        padding-bottom:3.5%;
+     }
+      #funcionamento{
+        text-align: center;
+        padding: 30px;
+        font-size: 50px;
+        color:rgb(172, 4, 4);
+        padding-bottom:3.5%;
+    }
+    .cabecalho-lista-item1{
+        display: inline-block;
+        margin: 0 24px;
+        font-size: 24px;
+        color: none;
+    }
